@@ -1,0 +1,11 @@
+print("1 > 10 = ", 1 > 10 , "\n")
+print("1 < 10 = ", 1 < 10 , "\n")
+print("1 == 1 = ", 1 == 1 , "\n")
+print("2 >= 1 = ", 2 >= 1 , "\n")
+print("2 <= 1 = ", 2 <= 1 , "\n")
+print("1 <=> 1 = ", 1 <=> 1 , "\n")
+print("1 <=> 2 = ", 1 <=> 2 , "\n")
+print("3 <=> 2 = ", 3 <=> 2 , "\n")
+print("apple <=> apple = ", "apple" <=> "apple" , "\n")
+print("apple <=> applee = ", "apple" <=> "applee" , "\n")
+print("basket > apple = ", "basket" > "apple" , "\n") # beccause 'b' is greater the 'a'
