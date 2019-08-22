@@ -1,5 +1,6 @@
 # if comparison (relational expression)
 #     statement
+# end
 
 puts("Please enter your grade : ")
 grade = gets
