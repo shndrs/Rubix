@@ -1,4 +1,5 @@
-require '/Users/home/Documents/SHNDProjects/Ruby\ On\ Rails/Rubix/Session\ 8/modules-part-one'
 
-print(ctof(212))
-print(ftoc(0))
+require_relative 'modules-part-one.rb'
+
+puts(ctof(212))
+puts(ftoc(0))
