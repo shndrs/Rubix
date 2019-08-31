@@ -12,3 +12,4 @@
 | Session 6  | Classes And Objects |
 | Session 7  | Inheritance |
 | Session 8  | Modules |
+| Session 9  | Exceptions |
