@@ -14,3 +14,4 @@
 | Session 8  | Modules |
 | Session 9  | Exceptions |
 | Session 10 | Input And Output | 
+| Session 11 | Debugging Ruby |
