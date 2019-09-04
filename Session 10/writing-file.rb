@@ -1,7 +1,7 @@
 
 outfile = File.new("data-two.txt","w")
 
-outfile.print("Hello, World")
-outfile.puts("Goodbye, World!")
+outfile.print("Sahand Raeisi\n")
+outfile.puts("Hanieh Nikjoo!")
 
 outfile.close
