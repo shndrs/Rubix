@@ -16,3 +16,7 @@
 | Session 10 | Input And Output | 
 | Session 11 | Debugging Ruby |
 | Session 12 | GUI Programming |
+
+# Credit
+
+This course is based on **McMillan's** Ruby tutorial...
